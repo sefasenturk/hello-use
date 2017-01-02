@@ -1,0 +1,8 @@
+[requires]
+
+Hello/0.1@demo/test
+foo/0.1@demo/test
+
+
+[generators]
+cmake
